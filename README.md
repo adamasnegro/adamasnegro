@@ -480,6 +480,10 @@ Aqui documento:
 
 Cada projeto representa uma etapa da minha evolução.
 
+## 🐍 [Python](https://github.com/adamasnegro/python-security-basics)
+
+Estudos e exercícios práticos de Python com foco em fundamentos de programação e segurança da informação.
+
 ---
 
 # 📂 Organização do conhecimento
