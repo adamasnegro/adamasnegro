@@ -484,6 +484,10 @@ Cada projeto representa uma etapa da minha evolução.
 
 Estudos e exercícios práticos de Python com foco em fundamentos de programação e segurança da informação.
 
+## 🐧 [Linux](https://github.com/adamasnegro/linux-basics)
+
+Estudos e laboratórios práticos de Linux com foco em fundamentos de sistemas, administração, redes e segurança da informação.
+
 ---
 
 # 📂 Organização do conhecimento
