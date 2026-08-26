@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner-github.png" alt="Banner do perfil GitHub">
+</p>
+
 # 👋 Cristiano Bonifácio
 
 ### `Tecnologia • Cybersecurity • Python • Linux • Cloud • IA`
