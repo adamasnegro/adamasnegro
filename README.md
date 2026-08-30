@@ -99,15 +99,13 @@ Segurança da Informação
 Cybersecurity
 ```
 
-Meu objetivo é evoluir passo a passo, transformar o conhecimento teórico em prática e construir minha primeira experiência profissional na área de Tecnologia e Cybersecurity.
+Meu objetivo é evoluir passo a passo e, futuramente, conquistar minha primeira oportunidade de estágio na área de Tecnologia e Cybersecurity.
 
 ---
 
 ## 🤝 Contato
 
 💼 [LinkedIn](https://www.linkedin.com/in/adamasnegro/)
-
-📂 [GitHub](https://github.com/adamasnegro)
 
 ---
 
