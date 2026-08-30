@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-github.png" alt="Banner do perfil GitHub">
+  <img src="./Update profile banner.png" alt="Banner do perfil GitHub">
 </p>
 
 # 👋 Cristiano Bonifácio
